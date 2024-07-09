@@ -72,6 +72,7 @@ Image credits: [UK Podcasts](https://uk-podcasts.co.uk/podcast/jexit-2020/exjw-i
 ## Articoli
 - [Come lasciare la religione dei Testimoni di Geova senza essere ostracizzati (tradotto dal sub in inglese)](https://www.reddit.com/r/extg/comments/1dno5w8/come_lasciare_la_religione_dei_testimoni_di_geova/)
 - [Critiche ai Testimoni di Geova - Wikipedia](https://it.wikipedia.org/wiki/Critiche_ai_Testimoni_di_Geova)
+- [I Testimoni di Geova possiedono la Verità? - Doc da JWfacts.com](https://www.jwfacts.com/print/jw-studies-pamphlet-italian.pdf)
 
 ## Communities It
 - [Facebook - L'Apostataccio](facebook.com/windofchange88)
