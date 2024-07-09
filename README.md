@@ -6,15 +6,19 @@ Select your language:
 - [English](#english)
 - [Italiano](#italiano)
 
+<!-- 
+![](./assets/jw_exit.jpg)
+<img src="./assets/jw_exit.jpg">
+
+Image credits: [UK Podcasts](https://uk-podcasts.co.uk/podcast/jexit-2020/exjw-interview-david-lyndon-moult)
+-->
+
 # Table of Contents
 
 - [English](#english)
   - [Books](#books)
   - [Communities En](#communities-en)
   - [Psycology support](#psycology-support)
-    - [Suicide](#suicide)
-      - [How To Help](#how-to-help)
-      - [Depression](#depression)
       - [Videos](#videos)
   - [Websites](#websites)
 - [Italiano](#italiano)
@@ -49,7 +53,7 @@ Select your language:
 ## Psycology support
 - [PCC - Post Cult Counseling ](https://www.willowtreepsychology.com.au/Post-Cult-Counselling)
 
-#### Videos
+### Videos
 
 - [Stories of Hope and Recovery: Jordan's Story](https://www.youtube.com/watch?v=4EtpEmFDL3Y&list=PLBXgZMI_zqfR4dvBdX7XHD-fjgoehFM_9&index=4)
 - [Stories of Hope and Recovery: Terry Wise](https://www.youtube.com/watch?v=nbTsOAy2M0Q&index=1&list=PLBXgZMI_zqfR4dvBdX7XHD-fjgoehFM_9)
