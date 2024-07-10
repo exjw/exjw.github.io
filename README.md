@@ -1,19 +1,17 @@
 # Ex Jw Resources and Help
 
-List of resources in order to help ex JW (Jehovah's Witnesses)
+List of resources to help ex-JW (Jehovah's Witnesses) 
 
 Select your language:
 - [English](#english)
 - [Italiano](#italiano)
 
-<!-- 
-![](./assets/jw_exit.jpg)
-<img src="./assets/jw_exit.jpg">
 
-Image credits: [UK Podcasts](https://uk-podcasts.co.uk/podcast/jexit-2020/exjw-interview-david-lyndon-moult)
--->
+![](./assets/jw-exit.png)     
+*Image credits: [UK Podcasts](https://uk-podcasts.co.uk/podcast/jexit-2020/exjw-interview-david-lyndon-moult)*
 
-# Table of Contents
+
+## Table of Contents
 
 - [English](#english)
   - [Books](#books)
@@ -51,7 +49,8 @@ Image credits: [UK Podcasts](https://uk-podcasts.co.uk/podcast/jexit-2020/exjw-i
 - [Youtube - The Truth Hurts](https://www.youtube.com/c/TheTruthHurts)
 
 ## Psycology support
-- [PCC - Post Cult Counseling ](https://www.willowtreepsychology.com.au/Post-Cult-Counselling)
+- [JW.Support - Assist youths being raised as Jehovah’s Witnesses, who have come to realize Watchtower is not "the truth"](https://jw.support/)
+- [PCC Methodology - Post Cult Counseling ](https://www.willowtreepsychology.com.au/Post-Cult-Counselling)
 
 ### Videos
 
@@ -62,7 +61,6 @@ Image credits: [UK Podcasts](https://uk-podcasts.co.uk/podcast/jexit-2020/exjw-i
 ## Websites
 - [AAWA - ADVOCATES for AWARENESS of WATCHTOWER ABUSES](https://www.aawa.co/)
 - [JWfacts.com](https://jwfacts.com/)
-- [JW.Support - Assist youths being raised as Jehovah’s Witnesses, who have come to realize Watchtower is not "the truth"](https://jw.support/)
 - [JWS Online Library - All WT publications since 1880](https://jws-library.one/)
 - [JW Watch - This website has been launched to give voice to millions of Jehovah’s Witnesses around the world who would not normally have the opportunity to say what they really think about the Watch Tower Society](https://jwwatch.org/)
 - [Recovering From Religion - Offers peer support and professional support to people doubting their beliefs](https://www.recoveringfromreligion.org/#rfr-welcome)
