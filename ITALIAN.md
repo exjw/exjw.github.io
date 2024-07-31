@@ -16,6 +16,7 @@ Seleziona la tua lingua:
 - [Italiano](#italiano)
   - [Articoli](#articoli)
   - [Communities](#communities)
+  - [Video](#video) 
 
 # Italiano
 
@@ -32,3 +33,7 @@ Seleziona la tua lingua:
     - [TikTok - Apostataccio](tiktok.com/@apostataccio)
     - [Youtube Apostataccio](https://www.youtube.com/@apostataccio)
 - [Reddit - r/extg](https://www.reddit.com/r/extg/)
+
+## Video
+- [Chi sono i testimoni di Geova](https://www.youtube.com/watch?v=nRAELb4Zy6o)
+- [Marco Crepaldi - "Sono sopravvissuta ai TESTIMONI di GEOVA"](https://www.youtube.com/watch?v=o_ccwhagrcM)
