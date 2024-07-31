@@ -33,11 +33,8 @@ Seleziona la tua lingua:
     - [TikTok - Apostataccio](tiktok.com/@apostataccio)
     - [Youtube Apostataccio](https://www.youtube.com/@apostataccio)
 - [Reddit - r/extg](https://www.reddit.com/r/extg/)
-- TheCompassionateApostate
-    - [Instagram - the.compassionateapostate](https://www.instagram.com/the.compassionateapostate/)
-    - [Youtube - TheCompassionateApostate](https://www.youtube.com/@TheCompassionateApostate)
-    - [TikTok - compassionate.apostate](https://www.tiktok.com/@compassionate.apostate)
 
 ## Video
 - [Chi sono i testimoni di Geova](https://www.youtube.com/watch?v=nRAELb4Zy6o)
+- [L'Apostataccio - ABUSI NASCOSTI dai testimoni di Geova](https://www.youtube.com/watch?v=1A2xWfWch98)
 - [Marco Crepaldi - "Sono sopravvissuta ai TESTIMONI di GEOVA"](https://www.youtube.com/watch?v=o_ccwhagrcM)

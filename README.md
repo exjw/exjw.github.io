@@ -43,7 +43,11 @@ Select your language:
 - [Youtube - ExJW Panda Tower](https://www.youtube.com/channel/UCDLalBD_PsUrj4ZEeWW7Tig)
 - [Youtube - Lloyd Evans](https://www.youtube.com/channel/UCz1w0ll081JJiYcjb298pOw)
 - [Youtube - Self Aware NPC](https://archive.org/details/self-aware-npc/)
-- [Youtube - The Truth Hurts](https://www.youtube.com/c/TheTruthHurts)
+- TheCompassionateApostate
+    - [Instagram - the.compassionateapostate](https://www.instagram.com/the.compassionateapostate/)
+    - [Youtube - TheCompassionateApostate](https://www.youtube.com/@TheCompassionateApostate)
+    - [TikTok - compassionate.apostate](https://www.tiktok.com/@compassionate.apostate)
+ [Youtube - The Truth Hurts](https://www.youtube.com/c/TheTruthHurts)
 
 ## Psycology support
 - [JW.Support - Assist youths being raised as Jehovah’s Witnesses, who have come to realize Watchtower is not "the truth"](https://jw.support/)
