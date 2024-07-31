@@ -40,4 +40,5 @@ Seleziona la tua lingua:
 
 ## Video
 - [Chi sono i testimoni di Geova](https://www.youtube.com/watch?v=nRAELb4Zy6o)
+- [L'Apostataccio - ABUSI NASCOSTI dai testimoni di Geova](https://www.youtube.com/watch?v=1A2xWfWch98)
 - [Marco Crepaldi - "Sono sopravvissuta ai TESTIMONI di GEOVA"](https://www.youtube.com/watch?v=o_ccwhagrcM)
