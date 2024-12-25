@@ -26,15 +26,20 @@ Select your language:
 - [Leaving the Fold: A Guide for Former Fundamentalists and Others Leaving Their Religion](https://www.amazon.it/dp/1933993235/)
 
 ## Communities
+- ApostateBarbie
+    - [Threads - @apostatebarbie](https://www.threads.net/@apostatebarbie)
+    - [TikTok - @apostatebarbie](https://www.tiktok.com/@apostatebarbie)
+    - [X.com - apostatebarbie](https://x.com/apostatebarbie)
+- Daniel O. McClellan 
+    - He has been dedicated full-time to combatting misinformation and increasing the public's access to scholarship about the Bible and religion.
+    - [Website - maklelan.org](https://www.maklelan.org/)
+    - [Linktree - maklelan](https://linktr.ee/maklelan)
 - [Instagram - apostatebarbie](https://www.instagram.com/apostatebarbie/)
 - [Reddit - r/exjw](https://www.reddit.com/r/exjw/)
-- [Reddit - r/exjw Wiki of resources](https://www.reddit.com/r/exjw/wiki/index/)
+    - [Reddit - r/exjw Wiki of resources](https://www.reddit.com/r/exjw/wiki/index/)
 - [Reddit - r/exjwLGBT](https://www.reddit.com/r/exjwLGBT/)
 - [Reddit - r/exjwhumor/](https://www.reddit.com/r/exjwhumor/)
 - [Reddit - r/exjwselfies/](https://www.reddit.com/r/exjwselfies/)
-- [Threads - @apostatebarbie](https://www.threads.net/@apostatebarbie)
-- [TikTok - @apostatebarbie](https://www.tiktok.com/@apostatebarbie)
-- [X.com - apostatebarbie](https://x.com/apostatebarbie)
 - [X.com - ExJWCaleb](https://x.com/ExJWCaleb)
 - [X.com - KT - (ExJW Supporting Attorney in JPN)](https://x.com/tanakaattorney)
 - [Youtube - Brighter Lights](https://www.youtube.com/@Brighter_Lights)
