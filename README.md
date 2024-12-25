@@ -11,7 +11,7 @@ Select your language:
 *Image credits: [UK Podcasts](https://uk-podcasts.co.uk/podcast/jexit-2020/exjw-interview-david-lyndon-moult)*
 
 
-## Table of Contents
+## Index
 
 - [English](#english)
   - [Books](#books)
@@ -23,9 +23,15 @@ Select your language:
 # English
 
 ## Books
+
 - [Leaving the Fold: A Guide for Former Fundamentalists and Others Leaving Their Religion](https://www.amazon.it/dp/1933993235/)
 
+<div align="right">
+  <b><a href="#index">Index ⬆️</a></b>
+</div>
+
 ## Communities
+
 - A Is For Apostate
     - [Bluesky - aisforapostate.bsky.social](https://bsky.app/profile/aisforapostate.bsky.social)
     - [Instagram - aisforapostate/](https://www.instagram.com/aisforapostate/)
@@ -97,11 +103,20 @@ Select your language:
     - [X.com - UpWatchtower](https://x.com/UpWatchtower)
     - [Website - whatsupwatchtower.com](https://www.whatsupwatchtower.com)
 
+<div align="right">
+  <b><a href="#index">Index ⬆️</a></b>
+</div>
+
 ## Psycology support
+
 - [JW.Support - Assist youths being raised as Jehovah’s Witnesses, who have come to realize Watchtower is not "the truth"](https://jw.support/)
 - [Nicolas Spooner - Ex Jehovah's Witness Counselling and Recovery - Nicolas Spooner](https://www.exjwcounselling.co.uk)
     - [Instagram - exjwcounselling](https://www.instagram.com/exjwcounselling/)
 - [PCC Methodology - Post Cult Counseling ](https://www.willowtreepsychology.com.au/Post-Cult-Counselling)
+
+<div align="right">
+  <b><a href="#index">Index ⬆️</a></b>
+</div>
 
 ## Videos
 
@@ -109,7 +124,12 @@ Select your language:
 - [Stories of Hope and Recovery: Terry Wise](https://www.youtube.com/watch?v=nbTsOAy2M0Q&index=1&list=PLBXgZMI_zqfR4dvBdX7XHD-fjgoehFM_9)
 - [Stories of Hope and Recovery: David's Story](https://www.youtube.com/watch?v=mVXLj0bNe0o&index=3&list=PLBXgZMI_zqfR4dvBdX7XHD-fjgoehFM_9)
 
+<div align="right">
+  <b><a href="#index">Index ⬆️</a></b>
+</div>
+
 ## Websites
+
 - [AAWA - ADVOCATES for AWARENESS of WATCHTOWER ABUSES](https://www.aawa.co/)
 - [AvoidJW](https://avoidjw.org/)
     - [The mission of AvoidJW](https://avoidjw.org/about-us/#)
@@ -120,3 +140,6 @@ Select your language:
 - [Recovering From Religion - Offers peer support and professional support to people doubting their beliefs](https://www.recoveringfromreligion.org/)
 - [What's Up Watchtower?](https://www.whatsupwatchtower.com/)
 
+<div align="right">
+  <b><a href="#index">Index ⬆️</a></b>
+</div>
