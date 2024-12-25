@@ -45,8 +45,11 @@ Select your language:
     - [Youtube - Brighter Lights](https://www.youtube.com/@Brighter_Lights)
 - Daniel O. McClellan 
     - He has been dedicated full-time to combatting misinformation and increasing the public's access to scholarship about the Bible and religion.
+    - [Blog - danielomcclellan](https://danielomcclellan.wordpress.com)
+    - [Instagram - maklelan](https://www.instagram.com/maklelan)
     - [Linktree - maklelan](https://linktr.ee/maklelan)
     - [Website - maklelan.org](https://www.maklelan.org/)
+    - [Youtube - maklelan](https://youtube.com/@maklelan)
  - Jw tales
     - [Youtube - How I woke Up playlist](https://www.youtube.com/playlist?list=PLengvETQkgppM5DwaxzJekS_Qn89vupf1)
     - [Youtube - JW Tales](https://www.youtube.com/@RayleighFrance) 
@@ -73,8 +76,8 @@ Select your language:
     - [Youtube - Lloyd Evans](https://www.youtube.com/channel/UCz1w0ll081JJiYcjb298pOw)
 - Self Aware Npc
     - [Youtube - Self Aware NPC](https://archive.org/details/self-aware-npc/)
-- Tanaka Attorney KT - (ExJW Supporting Attorney in JPN)]
-    - [X.com - tanakaattorney](https://x.com/tanakaattorney/)
+- Tanaka Attorney KT - (ExJW Supporting Attorney in JPN)
+    - [X.com - tanakaattorney](https://x.com/TanakaAttorney)
 - TheCompassionateApostate
     - [Instagram - the.compassionateapostate](https://www.instagram.com/the.compassionateapostate/)
     - [Youtube - TheCompassionateApostate](https://www.youtube.com/@TheCompassionateApostate/)
@@ -99,8 +102,8 @@ Select your language:
     - [Email - whatsupwatchtower@gmail.com](mailto:whatsupwatchtower@gmail.com) 
     - [Facebook - whatsupwatchtower](https://www.facebook.com/whatsupwatchtower/)
     - [Youtube - What's Up Watchtower?](https://www.youtube.com/channel/UCKi_uWlfJz3X11xFQ2bBAtw)
-    - [X.com - UpWatchtower](https://x.com/UpWatchtower)
     - [Website - whatsupwatchtower.com](https://www.whatsupwatchtower.com)
+    - [X.com - UpWatchtower](https://x.com/UpWatchtower)
 
 <div align="right">
   <b><a href="#index">Index ⬆️</a></b>
