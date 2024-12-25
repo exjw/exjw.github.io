@@ -32,8 +32,11 @@ Select your language:
     - [X.com - apostatebarbie](https://x.com/apostatebarbie)
 - Daniel O. McClellan 
     - He has been dedicated full-time to combatting misinformation and increasing the public's access to scholarship about the Bible and religion.
-    - [Website - maklelan.org](https://www.maklelan.org/)
     - [Linktree - maklelan](https://linktr.ee/maklelan)
+    - [Website - maklelan.org](https://www.maklelan.org/)
+ - Jw tales
+    - [Youtube - How I woke Up playlist](https://www.youtube.com/playlist?list=PLengvETQkgppM5DwaxzJekS_Qn89vupf1)
+    - [Youtube - JW Tales](https://www.youtube.com/@RayleighFrance) 
 - [Instagram - apostatebarbie](https://www.instagram.com/apostatebarbie/)
 - [Reddit - r/exjw](https://www.reddit.com/r/exjw/)
     - [Reddit - r/exjw Wiki of resources](https://www.reddit.com/r/exjw/wiki/index/)
