@@ -71,6 +71,9 @@ Select your language:
 
 ## Websites
 - [AAWA - ADVOCATES for AWARENESS of WATCHTOWER ABUSES](https://www.aawa.co/)
+- [AvoidJW](https://avoidjw.org/)
+    - [The mission of AvoidJW](https://avoidjw.org/about-us/#)
+    - [Youtube Activists](https://avoidjw.org/youtube-activists/)
 - [JWfacts.com](https://jwfacts.com/)
 - [JWS Online Library - All WT publications since 1880](https://jws-library.one/)
 - [JW Watch - This website has been launched to give voice to millions of Jehovah’s Witnesses around the world who would not normally have the opportunity to say what they really think about the Watch Tower Society](https://jwwatch.org/)
