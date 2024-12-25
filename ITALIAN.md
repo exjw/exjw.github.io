@@ -17,6 +17,7 @@ Seleziona la tua lingua:
   - [Articoli](#articoli)
   - [Communities](#communities)
   - [Video](#video) 
+      - [Testimonianze di Donne](#testimonianze-di-donne)
 
 # Italiano
 
@@ -38,3 +39,6 @@ Seleziona la tua lingua:
 - [Chi sono i testimoni di Geova](https://www.youtube.com/watch?v=nRAELb4Zy6o)
 - [L'Apostataccio - ABUSI NASCOSTI dai testimoni di Geova](https://www.youtube.com/watch?v=1A2xWfWch98)
 - [Marco Crepaldi - "Sono sopravvissuta ai TESTIMONI di GEOVA"](https://www.youtube.com/watch?v=o_ccwhagrcM)
+
+### Testimonianze di Donne
+- [Come le donne Testimoni di geova vengono vessate](https://www.youtube.com/watch?v=WLOwXVw9EVU)
