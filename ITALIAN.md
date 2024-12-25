@@ -45,11 +45,9 @@ Seleziona la tua lingua:
 
 ## Video
 
-- [ABUSI NASCOSTI dai testimoni di Geova - L'Apostataccio](https://www.youtube.com/watch?v=1A2xWfWch98)
 - [Chi sono i testimoni di Geova](https://www.youtube.com/watch?v=nRAELb4Zy6o)
 - [Pedofilia Testimoni di Geova Royal Commission Australiana con Geoffrey Jackson - L'Apostataccio](https://www.youtube.com/watch?v=0oJcsTAB640)
 - [Pedofilo marito di una testimone di geova - L'Apostataccio](https://www.youtube.com/watch?v=83UnwTCpg_E)
-- [Sono sopravvissuta ai testimone di geova - Marco Crepaldi](https://www.youtube.com/watch?v=o_ccwhagrcM)
 
 <div align="right">
   <b><a href="#indice">Vai all'indice ⬆️</a></b>
@@ -58,7 +56,13 @@ Seleziona la tua lingua:
 
 ### Testimonianze di Donne
 
-- [Come le donne Testimoni di geova vengono vessate](https://www.youtube.com/watch?v=WLOwXVw9EVU)
+- [ABUSI NASCOSTI dai testimoni di Geova - L'Apostataccio](https://www.youtube.com/watch?v=1A2xWfWch98)
+- [Come le donne Testimoni di geova vengono vessate - L'Apostataccio](https://www.youtube.com/watch?v=WLOwXVw9EVU)
+- [Come vive una donna nei testimoni di geova? - L'Apostataccio](https://www.youtube.com/watch?v=EGO-sM2zsc8)
+- [Ex testimone di geova: dai tentati suicidi alla liberazione - L'Apostataccio](https://www.youtube.com/watch?v=JHXZIVbNX6I)
+- [Il coraggio di cambiare idea - L'Apostataccio](https://www.youtube.com/watch?v=9Kf4XBfcHX0)
+- [Sono sopravvissuta ai testimone di geova - Marco Crepaldi](https://www.youtube.com/watch?v=o_ccwhagrcM)
+- [Uscire grazie a se stessi dai testimoni di geova - L'Apostataccio](https://www.youtube.com/watch?v=bwHGtEvBbPM)
 
 <div align="right">
   <b><a href="#indice">Vai all'indice ⬆️</a></b>
