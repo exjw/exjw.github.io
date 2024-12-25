@@ -62,6 +62,8 @@ Select your language:
     - [Youtube - EXJW Diaries](https://www.youtube.com/@exjwdiaries)
 - ExJW Panda Tower
     - [Youtube - ExJW Panda Tower](https://www.youtube.com/channel/UCDLalBD_PsUrj4ZEeWW7Tig)
+- Kaz Woke Up
+    - [Instagram - kaz.woke.up](https://www.instagram.com/kaz.woke.up)
 - Lloyd Evans
     - [Youtube - Lloyd Evans](https://www.youtube.com/channel/UCz1w0ll081JJiYcjb298pOw)
 - Self Aware Npc
@@ -89,11 +91,11 @@ Select your language:
 - Watchtower Examination
     - [Youtube - Watchtower Examination](https://www.youtube.com/c/WatchtowerExamination) 
 - What's Up Watchtower?
-    - [Email - whatsupwatchtower@gmail.com](whatsupwatchtower@gmail.com) 
+    - [Email - whatsupwatchtower@gmail.com](mailto:whatsupwatchtower@gmail.com) 
     - [Facebook - whatsupwatchtower](https://www.facebook.com/whatsupwatchtower/)
     - [Youtube - What's Up Watchtower?](https://www.youtube.com/channel/UCKi_uWlfJz3X11xFQ2bBAtw)
     - [X.com - UpWatchtower](https://x.com/UpWatchtower)
-    - [Website - whatsupwatchtower.com](www.whatsupwatchtower.com)
+    - [Website - whatsupwatchtower.com](https://www.whatsupwatchtower.com)
 
 ## Psycology support
 - [JW.Support - Assist youths being raised as Jehovah’s Witnesses, who have come to realize Watchtower is not "the truth"](https://jw.support/)
