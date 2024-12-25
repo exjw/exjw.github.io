@@ -36,9 +36,11 @@ Seleziona la tua lingua:
 - [Reddit - r/extg](https://www.reddit.com/r/extg/)
 
 ## Video
+- [ABUSI NASCOSTI dai testimoni di Geova - L'Apostataccio](https://www.youtube.com/watch?v=1A2xWfWch98)
 - [Chi sono i testimoni di Geova](https://www.youtube.com/watch?v=nRAELb4Zy6o)
-- [L'Apostataccio - ABUSI NASCOSTI dai testimoni di Geova](https://www.youtube.com/watch?v=1A2xWfWch98)
-- [Marco Crepaldi - "Sono sopravvissuta ai TESTIMONI di GEOVA"](https://www.youtube.com/watch?v=o_ccwhagrcM)
+- [Pedofilia Testimoni di Geova Royal Commission Australiana con Geoffrey Jackson - L'Apostataccio](https://www.youtube.com/watch?v=0oJcsTAB640)
+- [Pedofilo marito di una testimone di geova - L'Apostataccio](https://www.youtube.com/watch?v=83UnwTCpg_E)
+- [Sono sopravvissuta ai testimone di geova - Marco Crepaldi](https://www.youtube.com/watch?v=o_ccwhagrcM)
 
 ### Testimonianze di Donne
 - [Come le donne Testimoni di geova vengono vessate](https://www.youtube.com/watch?v=WLOwXVw9EVU)
