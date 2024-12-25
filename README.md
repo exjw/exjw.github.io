@@ -59,6 +59,8 @@ Select your language:
 
 ## Psycology support
 - [JW.Support - Assist youths being raised as Jehovah’s Witnesses, who have come to realize Watchtower is not "the truth"](https://jw.support/)
+- [Nicolas Spooner - Ex Jehovah's Witness Counselling and Recovery - Nicolas Spooner](https://www.exjwcounselling.co.uk)
+    - [Instagram - exjwcounselling](https://www.instagram.com/exjwcounselling/)
 - [PCC Methodology - Post Cult Counseling ](https://www.willowtreepsychology.com.au/Post-Cult-Counselling)
 
 ## Videos
