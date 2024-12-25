@@ -1,14 +1,13 @@
 # Ex Jw Resources and Help
 
+![](./assets/jw-exit-2.jpg)     
+*Image credits: [UK Podcasts](https://uk-podcasts.co.uk/podcast/jexit-2020/exjw-interview-david-lyndon-moult)*
+
 List of resources (video, website, communities) to help ex-JW (Jehovah's Witnesses) 
 
 Select your language:
 - [English](#english)
 - [Italiano](./ITALIAN.md)
-
-
-![](./assets/jw-exit-2.jpg)     
-*Image credits: [UK Podcasts](https://uk-podcasts.co.uk/podcast/jexit-2020/exjw-interview-david-lyndon-moult)*
 
 
 ## Index
