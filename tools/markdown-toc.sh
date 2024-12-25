@@ -1,7 +1,15 @@
 #!/usr/bin/env bash
 # Author https://github.com/Lirt/markdown-toc-bash
 
-FILE=${1:?No file was specified as first argument}
+FILE=${1}
+
+if [ -z "${FILE}" ]; then
+	echo "No file specified as input"
+	exit 1
+elif [ ! -f "${FILE}" ]; then
+	echo "Invalid file: ${FILE}"
+	exit 1
+fi
 
 declare -a TOC
 declare -A TOC_MAP
