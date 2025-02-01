@@ -38,6 +38,7 @@ Seleziona la tua lingua:
     - [TikTok - Apostataccio](tiktok.com/@apostataccio)
     - [Youtube Apostataccio](https://www.youtube.com/@apostataccio)
 - [Reddit - r/extg](https://www.reddit.com/r/extg/)
+- [Youtube - Mentalmente Liberi](https://youtube.com/@mentalmenteliberi)
 
 <div align="right">
   <b><a href="#indice">Vai all'indice ⬆️</a></b>
