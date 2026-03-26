@@ -47,6 +47,7 @@ Seleziona la tua lingua:
 ## Video
 
 - [Chi sono i testimoni di Geova](https://www.youtube.com/watch?v=nRAELb4Zy6o)
+- [Conversazione con un testimone di Geova pentito - Dada e Marcolino](https://youtu.be/PhrsBwjphk0)
 - [Pedofilia Testimoni di Geova Royal Commission Australiana con Geoffrey Jackson - L'Apostataccio](https://www.youtube.com/watch?v=0oJcsTAB640)
 - [Pedofilo marito di una testimone di geova - L'Apostataccio](https://www.youtube.com/watch?v=83UnwTCpg_E)
 
