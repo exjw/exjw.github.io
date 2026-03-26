@@ -1,4 +1,4 @@
-# Ex Jw Resources and Help
+# Ex Jw Risorse e aiuto
 
 ![](./assets/jw-exit-2.jpg)     
 *Image credits: [UK Podcasts](https://uk-podcasts.co.uk/podcast/jexit-2020/exjw-interview-david-lyndon-moult)*
